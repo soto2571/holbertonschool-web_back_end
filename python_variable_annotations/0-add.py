@@ -4,7 +4,7 @@
 This module contain a function that return the sum of two float number
 """
 
-def add(a, b):
+def add(a: float, b: float) -> float:
     """
     This function will return the sum of two float numbers
 
