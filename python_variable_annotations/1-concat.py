@@ -4,7 +4,7 @@ This module would have a function that concatinate two strings
 """
 
 
-def concat(a: str,b: str):
+def concat(a: str,b: str) -> str:
     """ 
     It would concatinate two strings
 
