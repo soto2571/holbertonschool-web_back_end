@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-
 """
 This module contain a function that return the sum of two float number
 """
+
 
 def add(a: float, b: float) -> float:
     """
